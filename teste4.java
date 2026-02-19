@@ -8,16 +8,17 @@ public class teste4 {
         int time = scaneia.nextInt();
 
         if (time == 1) {
-            System.out.println("vai curinthia");
+            System.out.println("vai Corinthians");
         }  else if (time == 2) {
-            System.out.println("vai bambi");
+            System.out.println("vai São Paulo");
         }  else if (time == 3) {
-            System.out.println("vai PALmeiras");
+            System.out.println("vai Palmeiras");
         }  else if (time == 4) {
-            System.out.println("vai idosos");
+            System.out.println("vai Santos");
         }  else {
         System.out.println("Opcao invalida");
         }
         scaneia.close();
     }
+
 }
