@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class teste3 {
+public class Teste3 {
     public static void main(String[] args) {
         System.out.println("Digite o número da tabuada que deseja:");
         System.out.println("Digite até quando deseja repetir:");
@@ -13,3 +13,4 @@ public class teste3 {
         sc.close();
     }
 }
+
