@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class teste2 {
+public class Teste2 {
     public static void main(String[] args) {
         System.out.println("Qual sua idade?");
         Scanner sca = new Scanner(System.in);
@@ -15,4 +15,5 @@ public class teste2 {
         sca.close();
     }
 }
+
 
