@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class teste3mod {
+public class Teste3mod {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -17,4 +17,5 @@ public class teste3mod {
     }
         sc.close();
 }
+
 }
