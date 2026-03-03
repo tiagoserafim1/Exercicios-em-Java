@@ -13,4 +13,3 @@ public class Teste3 {
         sc.close();
     }
 }
-
