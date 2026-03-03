@@ -15,7 +15,7 @@ public class teste5 {
             }
             System.out.println("O fatorial de " + fato + " é " + multiplo);
         }
-
         sc.close();
     }
 }
+
