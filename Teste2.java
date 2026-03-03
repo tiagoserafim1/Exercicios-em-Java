@@ -15,5 +15,3 @@ public class Teste2 {
         sca.close();
     }
 }
-
-
