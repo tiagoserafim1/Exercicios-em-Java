@@ -20,5 +20,4 @@ public class teste4 {
         }
         scaneia.close();
     }
-
 }
