@@ -18,4 +18,3 @@ public class teste5 {
         sc.close();
     }
 }
-
