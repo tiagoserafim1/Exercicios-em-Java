@@ -70,5 +70,3 @@ public class teste8 {
         System.out.println("A média é: " + media);
     }
 }
-
-
