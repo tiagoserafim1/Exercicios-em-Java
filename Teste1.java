@@ -7,5 +7,4 @@ public class Teste1 {
         String nome = sc.nextLine();
         System.out.println("olá, " + nome + "!");
     }
-
 }
