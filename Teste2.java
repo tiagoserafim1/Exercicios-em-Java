@@ -11,7 +11,7 @@ public class Teste2 {
         } else {
             System.out.println("Menor de idade, não pode passar");
         }
-
         sca.close();
     }
 }
+
