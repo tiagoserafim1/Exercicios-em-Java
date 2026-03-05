@@ -43,4 +43,3 @@ public class teste7 {
         sc.close();
     }
 }
-
