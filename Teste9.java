@@ -1,4 +1,4 @@
-public class teste9 {
+public class Teste9 {
     public static void main(String[] args) {
 
         var n = new int[]{1, 7, 3, 65, 21};
