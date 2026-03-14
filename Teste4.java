@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class teste4 {
+public class Teste4 {
     public static void main(String[] args) {
         System.out.println("Qual seu time? 1-Corinthians 2- Sao paulo 3-Palmeiras 4-Santos");
         Scanner scaneia = new Scanner(System.in);
