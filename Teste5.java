@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class teste5 {
+public class Teste5 {
     public static void main(String[] args) {
         System.out.println("Digite o número que deseja calcular o fatorial:");
         Scanner sc = new Scanner(System.in);
